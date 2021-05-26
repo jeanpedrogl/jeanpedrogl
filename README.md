@@ -1,6 +1,6 @@
 - My name is Jean, I’m 17 years old 👥
 - Currently I’m engaged to learn python and improve my English 🌎
-- I look to learn Python because I believe it going to be very necessary to my future, whatever I will be working in.
+- I look to learn Python because I believe it’s going to be very necessary to my future, whatever I will be working in.
 
 I live in Minas Gerais-Brazil
 🌱🐍
