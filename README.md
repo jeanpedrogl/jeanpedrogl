@@ -1,4 +1,4 @@
-- My name is Jean, I’m 17 years old 👥
+- My name is Jean, I’m 18 years old 👥
 - Currently I’m engaged to learn python and improve my English 🌎
 - I look to learn Python because I believe it’s going to be very necessary to my future, whatever I will be working with.
 
